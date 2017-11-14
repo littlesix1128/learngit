@@ -1,2 +1,1 @@
-Git is a version 
-Git is free software
+six  is  beautiful 
